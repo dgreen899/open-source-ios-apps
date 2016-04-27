@@ -191,6 +191,9 @@ Projects that are not in English have a flag
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶🔥
+- Swift Modules: a searchable index of Swift Package Manager modules 🔶
+  - https://github.com/coryalder/SwiM-iOS
+  - https://geo.itunes.apple.com/app/id1106135684
 - [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
 ## Finance
